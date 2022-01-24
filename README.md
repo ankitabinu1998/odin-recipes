@@ -1,2 +1,2 @@
 # odin-recipes
-This project is to practice HTML tags and document layout.
+This project is to practice HTML tags,CSS and document layout.
